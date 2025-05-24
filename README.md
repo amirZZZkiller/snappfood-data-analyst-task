@@ -8,13 +8,12 @@ Each task is implemented using Python and industry-standard libraries, with emph
 
 ## 📁 Project Structure
 
-snappfood-data-analyst-task/
-│
-├── task 1 - restaurant assignment/   # Clustering restaurants to 5 agents
-├── task 2 - grading model/           # Predictive modeling for restaurant grading
-├── task 3 - ocr verification/        # OCR + consistency check for restaurant images
-├── task 4 - sql analysis/            # SQL analysis of vendor revenue and AOV
-└── final presentation/               # Summary slides and overall conclusions
+snappfood-data-analyst-task/<br>
+├── task 1 - restaurant assignment/   # Clustering restaurants to 5 agents<br>
+├── task 2 - grading model/           # Predictive modeling for restaurant grading<br>
+├── task 3 - ocr verification/        # OCR + consistency check for restaurant images<br>
+├── task 4 - sql analysis/            # SQL analysis of vendor revenue and AOV<br>
+└── final presentation/               # Summary slides and overall conclusions<br>
 
 ---
 
