@@ -11,7 +11,7 @@ Each completed task emphasizes clarity, analytical rigor, and professional repor
 snappfood-data-analyst-task/<br>
 ├── task 1 - restaurant assignment/ # ✅ Clustering restaurants among 5 agents<br>
 ├── task 2 - grading model/ # ✅ Predictive modeling for restaurant grading<br>
-├── task 3 - ocr verification/ # ⚠️ Paused due to OCR reliability issues<br>
+├── task 3 - ocr verification/ # ⚠️ OCR pipeline implemented with EasyOCR, but needs further work<br>
 └── task 4 - sql analysis/ # ✅ SQL-based vendor revenue, profit, and AOV analysis<br>
 
 ---
@@ -20,7 +20,7 @@ snappfood-data-analyst-task/<br>
 
 - **Task 1:** Completed using Python (scikit-learn, networkx). Includes full evaluation and report.
 - **Task 2:** Completed with modeling pipeline, SMOTE, and cross-validation. Final model: Random Forest.
-- **Task 3:** Paused. Initial OCR pipelines using EasyOCR showed poor results. Revisited later if time allows.
+- **Task 3:** Implemented a full OCR pipeline using EasyOCR and OpenCV. While results were limited due to signage complexity, the pipeline is functional and documented.
 - **Task 4:** Completed in pure SQL using DB Browser for SQLite. Includes queries, `.db` file, `.csv` results, and a structured report.
 
 ---
